@@ -1,5 +1,0 @@
-a = input()
-arr = a.split()
-m = int(arr[0])
-n = int(arr[1])
-print(n, m)
